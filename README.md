@@ -8,7 +8,7 @@ C'est une personne consciencieuse, généralement intelligente et curieuse qui n
 
 Voilà pour la petite parenthèse.
 
-Je vais approvisionner mon compte avec differents script et programmes liés aux techniques de hacking, principalement en python pour l'instant, et pourquoi pas quelques cours sur la blockchain et la cybersécurité défensive.
+Je vais approvisionner mon compte avec differents script d'élévation de privilèges ou autre et programmes liés aux techniques de hacking (encore faut-il savoir les utiliser) je fais cela dans un but pédagogique et démonstratif, principalement en python pour l'instant, et pourquoi pas quelques cours sur la blockchain et la cybersécurité défensive.
 Egalement je vais aussi vous mettre quelques modèles de regression linéaire et multiples pour créer des algorithmes d'apprentissage relativement simple et détaillés pour que vous puissiez créer votre propre programmes avec l'IA, toujours en python.
 
 Ce sont des sujets qui me passionnent, et j'essaie actuellement d'en faire mon travail, donc je vais partager avec vous les différentes informations que j'ai collecté en esperant que cela vous aident vous aussi dans votre travail.
